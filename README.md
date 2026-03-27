@@ -2,7 +2,7 @@
 
 Diabetic retinopathy classification using EfficientNet and MobileNet on the APTOS 2019 dataset
 
-Internship Project
+Internship Project with Northwestern University
 
 ## Overview
 
